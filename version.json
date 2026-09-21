@@ -1,6 +1,6 @@
 {
   "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionName": "1.0.3",
   "downloadUrl": "https://raw.githubusercontent.com/celufix-lang/Tecnico-de-celulares-app/main/app-debug.apk",
   "changelog": "Corrección de errores y mejoras en la gestión de órdenes."
 }
